@@ -1,0 +1,6 @@
+[
+    { "id": 1, "title": "Cyber Security", "description": "every aspect of protecting an organization and its employees and assets against cyber threats...." },
+    { "id": 2, "title": "Big Data", "description": " data sets that are too large or complex to be dealt with by traditional data-processing application software...." },
+    { "id": 3, "title": "IoT", "description": "anything that connects to and shares data through the internet...." }
+]
+
